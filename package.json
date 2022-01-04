@@ -1,0 +1,27 @@
+{
+  "name": "material-darker-theme",
+  "displayName": "Material Darker Theme",
+  "description": "The darker theme you all have been waiting",
+  "version": "0.0.1",
+  "author": "CanCodes [@CanCodes]",
+  "publisher": "CanCodes",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/CanCodes/material-darker.git"
+  },
+  "engines": {
+    "vscode": "^1.63.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Material Darker Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/color-theme.json"
+      }
+    ]
+  }
+}
