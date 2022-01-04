@@ -1,3 +1,4 @@
+![banner](https://cdn.discordapp.com/attachments/429785339104722944/928031001291161670/unknown.png)
 # Material Darker Theme
 
 An Unofficial Darker Material Theme based on Equinusocio's [Community Material Theme](https://github.com/material-theme/vsc-community-material-theme)
